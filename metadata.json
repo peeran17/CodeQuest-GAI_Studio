@@ -1,0 +1,6 @@
+{
+  "name": "CodeQuest",
+  "description": "Interactive gamified coding platform with daily challenges, multi-language tracks, real-time code runner, streak progression, and AI mentor.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
